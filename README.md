@@ -11,14 +11,13 @@ A comprehensive TypeScript learning journey covering fundamentals to advanced co
 - 1.2 Why use TypeScript over JavaScript?  
 - 1.3 Installing TypeScript (Node.js + tsconfig setup)  
 - 1.4 Writing and compiling a simple `.ts` file  
-**Project:** Planning...
 
 ### ✅ Module 2: Type Annotations and Basic Types
 - 2.1 Primitive Types: string, number, boolean  
 - 2.2 Arrays and Tuples  
 - 2.3 any, unknown, void, null, undefined  
 - 2.4 Type inference  
-**Project:** Planning...
+**Project:** Product List Manager
 
 ### ✅ Module 3: Functions in TypeScript
 - 3.1 Function types  
